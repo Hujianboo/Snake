@@ -1,0 +1,13 @@
+.game {
+  margin: 50px auto;
+  border: 1px solid rgba($color: #471d1d, $alpha: 1);
+}
+.row {
+  display: flex;
+  flex-flow: row;
+}
+.col {
+  width: 20px;
+  height: 20px;
+  border: 1px solid rgba($color: #471d1d, $alpha: 1);
+}
